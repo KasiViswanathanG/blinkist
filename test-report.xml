@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/viswak/Desktop/Projects/react-assignments/assignment3/src/components/atoms/Icon/index.test.tsx">
+    <testCase name="Testing the IconComponent render default IconComponent" duration="28"/>
+    <testCase name="Testing the IconComponent render IconComponent" duration="7"/>
+    <testCase name="Testing the IconComponent render IconComponent with title" duration="3"/>
+  </file>
+  <file path="/home/viswak/Desktop/Projects/react-assignments/assignment3/src/components/molecules/Avatar/index.test.tsx">
+    <testCase name="Testing the AvatarComponent render single name AvatarComponent" duration="29"/>
+    <testCase name="Testing the AvatarComponent render double name AvatarComponent" duration="3"/>
+    <testCase name="Testing the AvatarComponent render double name AvatarComponent with deafult color" duration="6"/>
+    <testCase name="Testing the AvatarComponent render double name AvatarComponent with color" duration="5"/>
+    <testCase name="Testing the AvatarComponent render double name AvatarComponent with color and icon" duration="7"/>
+  </file>
+  <file path="/home/viswak/Desktop/Projects/react-assignments/assignment3/src/components/molecules/TextField/index.test.tsx">
+    <testCase name="Testing the ImageComponent render TextFieldComponent" duration="92"/>
+    <testCase name="Testing the ImageComponent render TextFieldComponent with icon" duration="23"/>
+  </file>
+  <file path="/home/viswak/Desktop/Projects/react-assignments/assignment3/src/components/atoms/Button/index.test.tsx">
+    <testCase name="Testing the Button render default button" duration="71"/>
+    <testCase name="Testing the Button render disabled button" duration="23"/>
+    <testCase name="Testing the Button render contained button" duration="31"/>
+    <testCase name="Testing the Button render contained button with icon" duration="13"/>
+    <testCase name="Testing the Button render outlined button" duration="24"/>
+    <testCase name="Testing the Button render outlined button with icon" duration="9"/>
+    <testCase name="Testing the Button render text button" duration="3"/>
+    <testCase name="Testing the Button render text button with icon" duration="9"/>
+    <testCase name="Testing the Button render secondary button" duration="18"/>
+    <testCase name="Testing the Button should call on click" duration="50"/>
+  </file>
+  <file path="/home/viswak/Desktop/Projects/react-assignments/assignment3/src/components/organisms/Card/index.test.tsx">
+    <testCase name="Testing the ImageComponent render CardComponent dots" duration="87"/>
+    <testCase name="Testing the ImageComponent render CardComponent Add to Library" duration="41"/>
+    <testCase name="Testing the ImageComponent should call on click Add to Library" duration="103"/>
+    <testCase name="Testing the ImageComponent should call on hover Add to Library" duration="90"/>
+    <testCase name="Testing the ImageComponent render CardComponent Finished" duration="42"/>
+    <testCase name="Testing the ImageComponent should call on click Finished" duration="31"/>
+    <testCase name="Testing the ImageComponent render CardComponent Read again" duration="9"/>
+    <testCase name="Testing the ImageComponent should call on click Read again" duration="26"/>
+  </file>
+  <file path="/home/viswak/Desktop/Projects/react-assignments/assignment3/src/components/atoms/Image/index.test.tsx">
+    <testCase name="Testing the ImageComponent render ImageComponent" duration="32"/>
+  </file>
+  <file path="/home/viswak/Desktop/Projects/react-assignments/assignment3/src/components/molecules/Footer/index.test.tsx">
+    <testCase name="Testing the FooterComponent render FooterComponent" duration="66"/>
+  </file>
+  <file path="/home/viswak/Desktop/Projects/react-assignments/assignment3/src/components/organisms/AppBar/index.test.tsx">
+    <testCase name="Testing the ImageComponent render ImageComponent" duration="219"/>
+    <testCase name="Testing the ImageComponent should call on click Explore" duration="343"/>
+    <testCase name="Testing the ImageComponent should call on click Explore and Explore" duration="165"/>
+    <testCase name="Testing the ImageComponent should call on click Explore and MyLibrary" duration="175"/>
+    <testCase name="Testing the ImageComponent should call on click Explore and Entrepreneurship" duration="163"/>
+    <testCase name="Testing the ImageComponent should call on click Explore and Entrepreneurship on Hover" duration="192"/>
+    <testCase name="Testing the ImageComponent should call on click My Library" duration="36"/>
+  </file>
+  <file path="/home/viswak/Desktop/Projects/react-assignments/assignment3/src/App.test.tsx">
+    <testCase name="renders learn react link" duration="378"/>
+  </file>
+</testExecutions>

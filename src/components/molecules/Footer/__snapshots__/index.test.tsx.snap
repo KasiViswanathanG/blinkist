@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing the FooterComponent render FooterComponent 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-102mbgj-MuiPaper-root"
+>
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "space-around",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "marginTop": "40px",
+          }
+        }
+      >
+        <img
+          alt="logo"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-jqh5pz-MuiCardMedia-root"
+          src="static/images/logo.png"
+        />
+        <p
+          className="MuiTypography-root MuiTypography-body1 css-eaf4qi-MuiTypography-root"
+        >
+          Big ideas in small packages
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 css-wmy4kh-MuiTypography-root"
+        >
+          Start learnign now
+        </p>
+      </div>
+      <div
+        style={
+          Object {
+            "marginTop": "40px",
+          }
+        }
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-um3j9i-MuiTypography-root"
+        >
+          Editorial
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          Book lists
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          What is Nonfiction?
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          What to read next?
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          Benefits of reading
+        </p>
+      </div>
+      <div
+        style={
+          Object {
+            "marginTop": "40px",
+          }
+        }
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-um3j9i-MuiTypography-root"
+        >
+          Useful links
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          Pricing
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          Blinkist business
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          Gift cards
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          Blinkist magaine
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          Contact & help
+        </p>
+      </div>
+      <div
+        style={
+          Object {
+            "marginTop": "40px",
+          }
+        }
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-um3j9i-MuiTypography-root"
+        >
+          Company
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          About
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          Careers
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          partners
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1vnvo1s-MuiTypography-root"
+        >
+          Code of Conduct
+        </p>
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "marginLeft": "65px",
+          "marginTop": "40px",
+        }
+      }
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-1m75f5p-MuiTypography-root"
+      >
+        © Blinkist 2021 Sitemap   |   Imprint   |   Terms of Service   |   Privacy Policies
+      </p>
+    </div>
+  </div>
+</div>
+`;

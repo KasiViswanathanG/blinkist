@@ -1,0 +1,652 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing the ImageComponent render CardComponent Add to Library 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1p67haf-MuiPaper-root-MuiCard-root"
+>
+  <div
+    style={
+      Object {
+        "display": "inline-flex",
+      }
+    }
+  >
+    <img
+      alt="image"
+      className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-kz0bxj-MuiCardMedia-root"
+      height="140"
+      src="static/images/1.png"
+    />
+  </div>
+  <div
+    className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "wrap",
+          "textAlign": "left",
+        }
+      }
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-18k87ye-MuiTypography-root"
+      >
+        <div
+          className="MuiBox-root css-1vg6q84"
+        >
+          Bring Your Human to Work
+        </div>
+      </h6>
+      <p
+        className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1ydyjjr-MuiTypography-root"
+      >
+        Erica Keswin
+      </p>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "justifyContent": "space-between",
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "display": "inline-flex",
+            }
+          }
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-colorDisabled MuiSvgIcon-fontSizeMedium css-1db085k-MuiSvgIcon-root"
+            data-testid="AccessTimeIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+            <path
+              d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+          >
+            13-minute read
+          </p>
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "display": "inline-flex",
+            }
+          }
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-colorDisabled MuiSvgIcon-fontSizeMedium css-1db085k-MuiSvgIcon-root"
+            data-testid="PersonOutlineSharpIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+          >
+            1.9k
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+    style={
+      Object {
+        "marginTop": "9.77px",
+      }
+    }
+  >
+    <button
+      className="MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root css-gtn702-MuiButtonBase-root-MuiButton-root"
+      data-testid={
+        <ForwardRef(Typography)
+          color="inherit"
+        >
+          Add To Library
+        </ForwardRef(Typography)>
+      }
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-startIcon MuiButton-iconSizeMedium css-1d6wzja-MuiButton-startIcon"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="AddIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+          />
+        </svg>
+      </span>
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-1mdftu-MuiTypography-root"
+      >
+        Add To Library
+      </p>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Testing the ImageComponent render CardComponent Finished 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1p67haf-MuiPaper-root-MuiCard-root"
+>
+  <div
+    style={
+      Object {
+        "display": "inline-flex",
+      }
+    }
+  >
+    <img
+      alt="image"
+      className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-kz0bxj-MuiCardMedia-root"
+      height="140"
+      src="static/images/1.png"
+    />
+  </div>
+  <div
+    className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "wrap",
+          "textAlign": "left",
+        }
+      }
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-18k87ye-MuiTypography-root"
+      >
+        <div
+          className="MuiBox-root css-1vg6q84"
+        >
+          Bring Your Human to Work
+        </div>
+      </h6>
+      <p
+        className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1ydyjjr-MuiTypography-root"
+      >
+        Erica Keswin
+      </p>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "justifyContent": "space-between",
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "display": "inline-flex",
+            }
+          }
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-colorDisabled MuiSvgIcon-fontSizeMedium css-1db085k-MuiSvgIcon-root"
+            data-testid="AccessTimeIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+            <path
+              d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+          >
+            13-minute read
+          </p>
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "display": "inline-flex",
+            }
+          }
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-colorDisabled MuiSvgIcon-fontSizeMedium css-1db085k-MuiSvgIcon-root"
+            data-testid="PersonOutlineSharpIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+          >
+            1.9k
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "marginTop": "-8.1px",
+      }
+    }
+  >
+    <button
+      className="MuiButton-root MuiButton-text MuiButton-textSecondary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-1by3ev0-MuiButtonBase-root-MuiButton-root"
+      data-testid={
+        <ForwardRef(Typography)
+          color="inherit"
+        >
+          Finished
+        </ForwardRef(Typography)>
+      }
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-1mdftu-MuiTypography-root"
+      >
+        Finished
+      </p>
+      <span
+        className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <div
+      style={
+        Object {
+          "backgroundColor": "#E1ECFC",
+          "display": "inline-flex",
+          "height": "15px",
+          "width": "88px",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "backgroundColor": "#F1F6F4",
+          "display": "inline-flex",
+          "height": "15px",
+          "width": "196px",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`Testing the ImageComponent render CardComponent Read again 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1p67haf-MuiPaper-root-MuiCard-root"
+>
+  <div
+    style={
+      Object {
+        "display": "inline-flex",
+      }
+    }
+  >
+    <img
+      alt="image"
+      className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-kz0bxj-MuiCardMedia-root"
+      height="140"
+      src="static/images/1.png"
+    />
+  </div>
+  <div
+    className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "wrap",
+          "textAlign": "left",
+        }
+      }
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-18k87ye-MuiTypography-root"
+      >
+        <div
+          className="MuiBox-root css-1vg6q84"
+        >
+          Bring Your Human to Work
+        </div>
+      </h6>
+      <p
+        className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1ydyjjr-MuiTypography-root"
+      >
+        Erica Keswin
+      </p>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "justifyContent": "space-between",
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "display": "inline-flex",
+            }
+          }
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-colorDisabled MuiSvgIcon-fontSizeMedium css-1db085k-MuiSvgIcon-root"
+            data-testid="AccessTimeIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+            <path
+              d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+          >
+            13-minute read
+          </p>
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "display": "inline-flex",
+            }
+          }
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-colorDisabled MuiSvgIcon-fontSizeMedium css-1db085k-MuiSvgIcon-root"
+            data-testid="PersonOutlineSharpIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+          >
+            1.9k
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "marginTop": "-6px",
+      }
+    }
+  >
+    <button
+      className="MuiButton-root MuiButton-text MuiButton-textSecondary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-1by3ev0-MuiButtonBase-root-MuiButton-root"
+      data-testid={
+        <ForwardRef(Typography)
+          color="inherit"
+        >
+          Read again
+        </ForwardRef(Typography)>
+      }
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-1mdftu-MuiTypography-root"
+      >
+        Read again
+      </p>
+    </button>
+    <div
+      style={
+        Object {
+          "backgroundColor": "#DFE8F6",
+          "display": "flex",
+          "height": "15px",
+          "width": "284px",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`Testing the ImageComponent render CardComponent dots 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1p67haf-MuiPaper-root-MuiCard-root"
+>
+  <div
+    style={
+      Object {
+        "display": "inline-flex",
+      }
+    }
+  >
+    <img
+      alt="image"
+      className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-kz0bxj-MuiCardMedia-root"
+      height="140"
+      src="static/images/1.png"
+    />
+  </div>
+  <div
+    className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "wrap",
+          "textAlign": "left",
+        }
+      }
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-18k87ye-MuiTypography-root"
+      >
+        <div
+          className="MuiBox-root css-1vg6q84"
+        >
+          Bring Your Human to Work
+        </div>
+      </h6>
+      <p
+        className="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-1ydyjjr-MuiTypography-root"
+      >
+        Erica Keswin
+      </p>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "justifyContent": "space-between",
+          }
+        }
+      >
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "display": "inline-flex",
+            }
+          }
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-colorDisabled MuiSvgIcon-fontSizeMedium css-1db085k-MuiSvgIcon-root"
+            data-testid="AccessTimeIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+            <path
+              d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+          >
+            13-minute read
+          </p>
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "display": "inline-flex",
+            }
+          }
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-colorDisabled MuiSvgIcon-fontSizeMedium css-1db085k-MuiSvgIcon-root"
+            data-testid="PersonOutlineSharpIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+          >
+            1.9k
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1xd17wn-MuiSvgIcon-root"
+      data-testid="MoreHorizIcon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+      />
+    </svg>
+    <div
+      style={
+        Object {
+          "backgroundColor": "#E1ECFC",
+          "display": "inline-flex",
+          "height": "15px",
+          "width": "88px",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "backgroundColor": "#F1F6F4",
+          "display": "inline-flex",
+          "height": "15px",
+          "width": "196px",
+        }
+      }
+    />
+  </div>
+</div>
+`;

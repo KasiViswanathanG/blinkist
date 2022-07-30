@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing the AvatarComponent render double name AvatarComponent 1`] = `
+<div
+  style={
+    Object {
+      "display": "inline-flex",
+    }
+  }
+>
+  <div
+    className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+  >
+    KV
+  </div>
+  <span
+    style={
+      Object {
+        "marginTop": "9px",
+      }
+    }
+  />
+</div>
+`;
+
+exports[`Testing the AvatarComponent render double name AvatarComponent with color 1`] = `
+<div
+  style={
+    Object {
+      "display": "inline-flex",
+    }
+  }
+>
+  <div
+    className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-11v6gn1-MuiAvatar-root"
+  >
+    KV
+  </div>
+  <span
+    style={
+      Object {
+        "marginTop": "9px",
+      }
+    }
+  />
+</div>
+`;
+
+exports[`Testing the AvatarComponent render double name AvatarComponent with color and icon 1`] = `
+<div
+  style={
+    Object {
+      "display": "inline-flex",
+    }
+  }
+>
+  <div
+    className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-11v6gn1-MuiAvatar-root"
+  >
+    KV
+  </div>
+  <span
+    style={
+      Object {
+        "marginTop": "9px",
+      }
+    }
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+      data-testid="KeyboardArrowDownIcon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7.41 8.59 12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Testing the AvatarComponent render double name AvatarComponent with deafult color 1`] = `
+<div
+  style={
+    Object {
+      "display": "inline-flex",
+    }
+  }
+>
+  <div
+    className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-cieima-MuiAvatar-root"
+  >
+    KV
+  </div>
+  <span
+    style={
+      Object {
+        "marginTop": "9px",
+      }
+    }
+  />
+</div>
+`;
+
+exports[`Testing the AvatarComponent render single name AvatarComponent 1`] = `
+<div
+  style={
+    Object {
+      "display": "inline-flex",
+    }
+  }
+>
+  <div
+    className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+  >
+    V
+  </div>
+  <span
+    style={
+      Object {
+        "marginTop": "9px",
+      }
+    }
+  />
+</div>
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing the ImageComponent render ImageComponent 1`] = `
+<div
+  style={
+    Object {
+      "display": "inline-flex",
+    }
+  }
+>
+  <img
+    alt="image"
+    className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-kz0bxj-MuiCardMedia-root"
+    height="140"
+    src="static/images/1.png"
+  />
+</div>
+`;
